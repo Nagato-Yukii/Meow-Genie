@@ -87,4 +87,10 @@ Meow:.
 
 
 ```
-在运行代码前,请先按inf.txt安装相应的模型,再按requirement配置环境,然后只需要在该目录下输入指令python main.py即可,当然你可以将此代码作为模板,使用更多模型丰富功能.
+在运行代码前,请先按inf.md安装相应的模型,
+
+再按requirements.txt配置环境,(conda create -n meow python=3.11 ; conda activate meow ; pip install -r requirement.txt),我们设备可安装的toech可能不同,按照报错逐渐补充也能顺利补充完环境
+
+然后只需要在该目录下输入指令python main.py即可,
+
+当然你可以将此代码作为模板,使用更多模型丰富功能.
