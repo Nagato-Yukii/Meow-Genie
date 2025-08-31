@@ -94,3 +94,11 @@ Meow:.
 然后只需要在该目录下输入指令python main.py即可,
 
 当然你可以将此代码作为模板,使用更多模型丰富功能.
+
+# 预览
+
+![预处理](picture/preprocess.jpg)
+![分类](picture/classfication.jpg)
+![生成](picture/generate.jpg)
+![超分重建](picture/super_resolution.jpg)
+![操作](picture/operation.jpg)
